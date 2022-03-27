@@ -44,4 +44,4 @@ Hi, I'm Muhammad Bilal, a React JS, React Native Developer 🚀 from Pakistan, c
 
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibilalchaudhary&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibilalchaudhary&show_icons=true&theme=radical)
