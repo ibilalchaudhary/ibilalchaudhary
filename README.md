@@ -35,8 +35,7 @@ Hi, I'm Muhammad Bilal, a React JS, React Native Developer 🚀 from Pakistan, c
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://www.iconninja.com/files/332/243/605/react-js-react-logo-js-icon.png"></code>
 <code><img height="20" src="https://www.iconninja.com/files/178/577/79/github-icon.png"></code>
-<code><img height="20" src="https://www.iconninja.com/files/522/11/668/db-mongodb-icon.png"></code>
-<code><img height="20" src="https://www.iconninja.com/files/178/577/79/visual-studio-icon.png"></code>
+<code><img height="20" src="https://www.iconninja.com/files/111/633/232/visual-studio-icon.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
