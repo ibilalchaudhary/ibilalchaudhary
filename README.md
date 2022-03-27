@@ -1,12 +1,12 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Kazi Mahbubur Rahman</h1>
+<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Muhammad Bilal</h1>
 
 <br/>
 
 <a href="https://twitter.com/amanjhurani">
-  <img align="left" alt="Aman Jhurani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Aman Jhurani | Twitter" width="22px" src="https://www.svgrepo.com/show/49959/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/amanjhurani/">
-  <img align="left" alt="Aman's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aman's LinkdeIN" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
 <a href="https://t.me/ajuploads">
   <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
