@@ -21,14 +21,6 @@
  <img src="https://komarev.com/ghpvc/?username=amanjhurani" alt="ibilalchaudhary" />
 
 <br />
-<!-- 
-Hi, I'm Muhammad Bilal, a React JS, React Native Developer 🚀 from Pakistan, currently with programming I'm transforming complex issues into straightforward, wonderful and instinctive arrangements.
-
-**Talking about my Personal Stuffs:**
-
-- 🌱 I’m currently exploring MERN Stack
-- 🧑‍💻 The tools I'm currently using are **Visual Studio Code, GitHub Desktop, Windows Terminal, Firebase, Adobe XD and Git**
-- 📫 How to reach me: ibilalchaudhary@gmail.com -->
 
 **Languages and Tools:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
