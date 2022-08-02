@@ -1,6 +1,6 @@
- <h1 align="center">Hi <img src="https://github.com/ibilalchaudhary/ibilalchaudhary/blob/main/Wave.gif" height="55px" width="55px">, I'm Muhammad Bilal</h1>
+ <!-- <h1 align="center">Hi <img src="https://github.com/ibilalchaudhary/ibilalchaudhary/blob/main/Wave.gif" height="55px" width="55px">, I'm Muhammad Bilal</h1>
 
-<br/>
+<br/> -->
 
 <a href="https://twitter.com/ibilalchaudhry">
   <img align="left" alt="Bilal's Twitter" width="22px" src="https://www.svgrepo.com/show/49959/twitter.svg" />
@@ -21,17 +21,16 @@
  <img src="https://komarev.com/ghpvc/?username=amanjhurani" alt="ibilalchaudhary" />
 
 <br />
-
+<!-- 
 Hi, I'm Muhammad Bilal, a React JS, React Native Developer 🚀 from Pakistan, currently with programming I'm transforming complex issues into straightforward, wonderful and instinctive arrangements.
 
 **Talking about my Personal Stuffs:**
 
 - 🌱 I’m currently exploring MERN Stack
 - 🧑‍💻 The tools I'm currently using are **Visual Studio Code, GitHub Desktop, Windows Terminal, Firebase, Adobe XD and Git**
-- 📫 How to reach me: ibilalchaudhary@gmail.com
+- 📫 How to reach me: ibilalchaudhary@gmail.com -->
 
 **Languages and Tools:**
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -45,6 +44,3 @@ Hi, I'm Muhammad Bilal, a React JS, React Native Developer 🚀 from Pakistan, c
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 </br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibilalchaudhary&show_icons=true&theme=radical)
- 
