@@ -34,7 +34,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Licence](https://img.shields.io/badge/license-MIT-%23373737)&nbsp;
-![Rating](https://img.shields.io/badge/rating-4.8%2F5-brightgreen)&nbsp;
-![Follow](https://shields.io/badge/Follow-150-blue?logo=github&style=social)&nbsp;
+
 </br>
